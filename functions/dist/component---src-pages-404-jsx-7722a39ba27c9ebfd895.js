@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[4256],{7291:function(t,n,e){e.r(n),e.d(n,{Head:function(){return a}});e(7294);var u=e(2301),l=e(4854),o=e(2440),s=e(2059),i=e(917);const a=()=>(0,i.tZ)(s.Z,null);n.default=()=>(0,i.tZ)(u.Z,null,(0,i.tZ)("p",null,"ごめんなさい！ページが存在しませんでした。"),(0,i.tZ)(o.Z,{paintDrip:!0,hex:"#FF6C9C",component:l.Link,to:"/home"},(0,i.tZ)("button",null,"Portfolioへ戻る")))}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-7722a39ba27c9ebfd895.js.map
